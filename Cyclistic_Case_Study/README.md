@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the analysis performed for the Cyclistic bike-share case study. The goal of this analysis was to understand how casual riders and annual members use Cyclistic bikes differently, with the aim of developing marketing strategies to convert casual riders into annual members.
+This repository contains the analysis performed for the Cyclistic bike-share company, and it is a case study for the Google Data Analytics Certificate Capstone Project. The goal of this analysis was to understand how casual riders and annual members use Cyclistic bikes differently, with the aim of developing marketing strategies to convert casual riders into annual members.
 
 ## Data
 
